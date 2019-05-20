@@ -2,6 +2,10 @@
 
 Welcome to the Data Bazaar! If you're intersted in doing open data better, you're in the right place.
 
+<div align="center">
+  <img alt="logo" src="https://qri.io/img/blobs/blob_trio.png" width="128">
+</div>
+
 # Table of Contents
 
 * [Discord Chat](#discord-chat)
@@ -10,6 +14,7 @@ Welcome to the Data Bazaar! If you're intersted in doing open data better, you'r
   * [Building Qri Call](#building-qri-call)
   * [Quarterly Calls](#quarterly-calls)
 * [Participating](#participating)
+* [License](#license)
 
 ## Discord Chat
 Your first stop if you have questions that you can't answer with our [website](https://qri.io) or [github](https://github.com/qri-io) is to check our discord chat:
@@ -37,3 +42,7 @@ We have guidelines for working as an open project, these are all contained in th
 
 - [Volunteer Code of Conduct](/conduct.md)
 - [Contributing Guidelines](/contributing.md)
+
+## License
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Qri docs</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Format for this doc is deeply inspired by [Data Together's](https://github.com/datatogether/datatogether) community repo.
